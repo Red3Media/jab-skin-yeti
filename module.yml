@@ -1,6 +1,0 @@
----
-name: "jab-skin-yeti"
-version: "3.3.4"
-compass:
-  - "_bootswatch.scss"
-  - "_variables.scss"

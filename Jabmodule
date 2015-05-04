@@ -1,0 +1,6 @@
+#!/bin/sh
+
+name="jab-skin-yeti"
+version="3.3.4"
+beforeBS=("_variables.scss")
+afterBS=("_bootswatch.scss")
